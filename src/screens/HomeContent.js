@@ -20,9 +20,10 @@ class HomeContent extends React.Component {
                     </div>
                 </section>
                 <section className="columns has-text-centered">
-                    <div className="column"><button class="button is-large is-success is-outlined is-rounded">仕様書</button></div>
-                    <div className="column"><button class="button is-large is-success is-outlined is-rounded">github</button></div>
-                    <div className="column"><button class="button is-large is-success is-outlined is-rounded">企画書</button></div>
+                    <div className="column"><a href="https://drive.google.com/file/d/1w5i8f3JI8svqCxleA7bYQ-v9Vjpq_S5r/view?usp=sharing"><button class="button is-large is-success is-outlined is-rounded">仕様書</button></a></div>
+                    <div className="column"><a href="https://github.com/5418070YutaTanaka/extend_mag"><button class="button is-large is-success is-outlined is-rounded">github</button></a></div>
+                    <div className="column"><a href="https://drive.google.com/file/d/16CS9YGzcyZsaLXyz5ZMVaz41jNpg56Nk/view"><button class="button is-large is-success is-outlined is-rounded">企画書</button></a></div>
+                    <div className="column"><a href="https://drive.google.com/file/d/1f6LetelPV_yivywTKN4fbTXV1WTffi00/view"><button class="button is-large is-success is-outlined is-rounded">最終レポート</button></a></div>
                     
                 </section>
             </div>
